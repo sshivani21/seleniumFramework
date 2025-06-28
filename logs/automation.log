@@ -1,0 +1,18 @@
+2025-06-26 16:42:59 INFO  Log - INFO log working
+2025-06-26 16:42:59 ERROR Log - ERROR log working
+2025-06-26 16:42:59 DEBUG Log - DEBUG log working
+2025-06-26 16:51:14 INFO  Log - INFO log working
+2025-06-26 16:51:14 ERROR Log - ERROR log working
+2025-06-26 16:51:14 DEBUG Log - DEBUG log working
+2025-06-26 16:53:35 DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hp\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml"
+2025-06-26 16:53:36 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml
+
+2025-06-26 16:54:08 DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hp\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml"
+2025-06-26 16:54:08 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml
+
+2025-06-26 16:57:48 DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hp\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml"
+2025-06-26 16:57:48 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml
+
