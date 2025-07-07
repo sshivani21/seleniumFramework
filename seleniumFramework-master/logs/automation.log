@@ -1,0 +1,155 @@
+2025-06-26 16:42:59 INFO  Log - INFO log working
+2025-06-26 16:42:59 ERROR Log - ERROR log working
+2025-06-26 16:42:59 DEBUG Log - DEBUG log working
+2025-06-26 16:51:14 INFO  Log - INFO log working
+2025-06-26 16:51:14 ERROR Log - ERROR log working
+2025-06-26 16:51:14 DEBUG Log - DEBUG log working
+2025-06-26 16:53:35 DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hp\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml"
+2025-06-26 16:53:36 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml
+
+2025-06-26 16:54:08 DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hp\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml"
+2025-06-26 16:54:08 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml
+
+2025-06-26 16:57:48 DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hp\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml"
+2025-06-26 16:57:48 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml
+
+2025-06-28 14:49:41 DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hp\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml"
+2025-06-28 14:49:41 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml
+
+2025-06-28 15:30:36 DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hp\eclipse-workspace\SeleniumFramework\testng.xml"
+2025-06-28 15:30:37 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\SeleniumFramework\testng.xml
+
+2025-06-28 16:00:33 DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hp\eclipse-workspace\SeleniumFramework\testng.xml"
+2025-07-01 14:15:20 DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hp\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml"
+2025-07-01 14:15:20 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml
+
+2025-07-01 14:16:55 DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hp\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml"
+2025-07-01 14:16:55 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml
+
+2025-07-01 14:18:46 DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hp\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml"
+2025-07-01 14:18:46 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml
+
+2025-07-01 21:07:38 DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ganno\AppData\Local\JetBrains\IdeaIE2022.2\temp-testng-customsuite.xml"
+2025-07-01 21:07:39 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ganno\AppData\Local\JetBrains\IdeaIE2022.2\temp-testng-customsuite.xml
+
+2025-07-01 21:12:34 DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ganno\AppData\Local\JetBrains\IdeaIE2022.2\temp-testng-customsuite.xml"
+2025-07-01 21:12:36 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ganno\AppData\Local\JetBrains\IdeaIE2022.2\temp-testng-customsuite.xml
+
+2025-07-01 21:16:22 DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ganno\AppData\Local\JetBrains\IdeaIE2022.2\temp-testng-customsuite.xml"
+2025-07-01 21:16:23 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ganno\AppData\Local\JetBrains\IdeaIE2022.2\temp-testng-customsuite.xml
+
+2025-07-01 21:19:43 INFO  Log - INFO log working
+2025-07-01 21:19:43 ERROR Log - ERROR log working
+2025-07-01 21:19:43 DEBUG Log - DEBUG log working
+2025-07-01 21:23:23 DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ganno\AppData\Local\JetBrains\IdeaIE2022.2\temp-testng-customsuite.xml"
+2025-07-01 21:23:23 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ganno\AppData\Local\JetBrains\IdeaIE2022.2\temp-testng-customsuite.xml
+
+2025-07-01 21:23:34 INFO  Pages.Add_Log - Total number of links on the page: 48
+2025-07-01 21:23:35 INFO  Pages.Add_Log - http://www.deadlinkcity.com/comparison.asp - 200 - Valid Link
+2025-07-01 21:23:35 INFO  Pages.Add_Log - Total number of broken links: 0
+2025-07-01 21:23:36 INFO  Pages.Add_Log - http://www.deadlinkcity.com/errorlist.asp - 200 - Valid Link
+2025-07-01 21:23:36 INFO  Pages.Add_Log - Total number of broken links: 0
+2025-07-01 21:23:37 INFO  Pages.Add_Log - http://www.deadlinkcity.com/error-page.asp?e=400 - 400 - Broken Link
+2025-07-01 21:23:37 INFO  Pages.Add_Log - Total number of broken links: 1
+2025-07-01 21:23:37 INFO  Pages.Add_Log - http://www.deadlinkcity.com/error-page.asp?e=401 - 401 - Broken Link
+2025-07-01 21:23:37 INFO  Pages.Add_Log - Total number of broken links: 2
+2025-07-01 21:23:38 INFO  Pages.Add_Log - http://www.deadlinkcity.com/error-page.asp?e=402 - 402 - Broken Link
+2025-07-01 21:23:38 INFO  Pages.Add_Log - Total number of broken links: 3
+2025-07-01 21:23:40 INFO  Pages.Add_Log - http://www.deadlinkcity.com/error-page.asp?e=403 - 403 - Broken Link
+2025-07-01 21:23:40 INFO  Pages.Add_Log - Total number of broken links: 4
+2025-07-01 21:23:40 INFO  Pages.Add_Log - http://www.deadlinkcity.com/error-page.asp?e=404 - 404 - Broken Link
+2025-07-01 21:23:40 INFO  Pages.Add_Log - Total number of broken links: 5
+2025-07-01 21:23:41 INFO  Pages.Add_Log - http://www.deadlinkcity.com/error-page.asp?e=405 - 405 - Broken Link
+2025-07-01 21:23:41 INFO  Pages.Add_Log - Total number of broken links: 6
+2025-07-01 21:23:42 INFO  Pages.Add_Log - http://www.deadlinkcity.com/error-page.asp?e=406 - 406 - Broken Link
+2025-07-01 21:23:42 INFO  Pages.Add_Log - Total number of broken links: 7
+2025-07-01 21:23:43 INFO  Pages.Add_Log - http://www.deadlinkcity.com/error-page.asp?e=407 - 407 - Broken Link
+2025-07-01 21:23:43 INFO  Pages.Add_Log - Total number of broken links: 8
+2025-07-01 21:23:44 INFO  Pages.Add_Log - http://www.deadlinkcity.com/error-page.asp?e=408 - 408 - Broken Link
+2025-07-01 21:23:44 INFO  Pages.Add_Log - Total number of broken links: 9
+2025-07-01 21:23:44 INFO  Pages.Add_Log - http://www.deadlinkcity.com/error-page.asp?e=409 - 409 - Broken Link
+2025-07-01 21:23:44 INFO  Pages.Add_Log - Total number of broken links: 10
+2025-07-01 21:23:45 INFO  Pages.Add_Log - http://www.deadlinkcity.com/error-page.asp?e=410 - 410 - Broken Link
+2025-07-01 21:23:45 INFO  Pages.Add_Log - Total number of broken links: 11
+2025-07-01 21:23:45 INFO  Pages.Add_Log - http://www.deadlinkcity.com/error-page.asp?e=411 - 411 - Broken Link
+2025-07-01 21:23:45 INFO  Pages.Add_Log - Total number of broken links: 12
+2025-07-01 21:23:46 INFO  Pages.Add_Log - http://www.deadlinkcity.com/error-page.asp?e=412 - 412 - Broken Link
+2025-07-01 21:23:46 INFO  Pages.Add_Log - Total number of broken links: 13
+2025-07-01 21:23:47 INFO  Pages.Add_Log - http://www.deadlinkcity.com/error-page.asp?e=413 - 413 - Broken Link
+2025-07-01 21:23:47 INFO  Pages.Add_Log - Total number of broken links: 14
+2025-07-01 21:23:48 INFO  Pages.Add_Log - http://www.deadlinkcity.com/error-page.asp?e=414 - 414 - Broken Link
+2025-07-01 21:23:48 INFO  Pages.Add_Log - Total number of broken links: 15
+2025-07-01 21:23:48 INFO  Pages.Add_Log - http://www.deadlinkcity.com/error-page.asp?e=415 - 415 - Broken Link
+2025-07-01 21:23:48 INFO  Pages.Add_Log - Total number of broken links: 16
+2025-07-01 21:23:49 INFO  Pages.Add_Log - http://www.deadlinkcity.com/error-page.asp?e=416 - 416 - Broken Link
+2025-07-01 21:23:49 INFO  Pages.Add_Log - Total number of broken links: 17
+2025-07-01 21:23:49 INFO  Pages.Add_Log - http://www.deadlinkcity.com/error-page.asp?e=417 - 417 - Broken Link
+2025-07-01 21:23:49 INFO  Pages.Add_Log - Total number of broken links: 18
+2025-07-01 21:23:50 INFO  Pages.Add_Log - http://www.deadlinkcity.com/error-page.asp?e=420 - 420 - Broken Link
+2025-07-01 21:23:50 INFO  Pages.Add_Log - Total number of broken links: 19
+2025-07-01 21:23:51 INFO  Pages.Add_Log - http://www.deadlinkcity.com/error-page.asp?e=422 - 422 - Broken Link
+2025-07-01 21:23:51 INFO  Pages.Add_Log - Total number of broken links: 20
+2025-07-01 21:23:51 INFO  Pages.Add_Log - http://www.deadlinkcity.com/error-page.asp?e=423 - 423 - Broken Link
+2025-07-01 21:23:51 INFO  Pages.Add_Log - Total number of broken links: 21
+2025-07-01 21:23:52 INFO  Pages.Add_Log - http://www.deadlinkcity.com/error-page.asp?e=424 - 424 - Broken Link
+2025-07-01 21:23:52 INFO  Pages.Add_Log - Total number of broken links: 22
+2025-07-01 21:23:53 INFO  Pages.Add_Log - http://www.deadlinkcity.com/error-page.asp?e=429 - 429 - Broken Link
+2025-07-01 21:23:53 INFO  Pages.Add_Log - Total number of broken links: 23
+2025-07-01 21:23:53 INFO  Pages.Add_Log - http://www.deadlinkcity.com/error-page.asp?e=431 - 431 - Broken Link
+2025-07-01 21:23:53 INFO  Pages.Add_Log - Total number of broken links: 24
+2025-07-01 21:23:54 INFO  Pages.Add_Log - http://www.deadlinkcity.com/error-page.asp?e=450 - 450 - Broken Link
+2025-07-01 21:23:54 INFO  Pages.Add_Log - Total number of broken links: 25
+2025-07-01 21:23:55 INFO  Pages.Add_Log - http://www.deadlinkcity.com/error-page.asp?e=500 - 500 - Broken Link
+2025-07-01 21:23:55 INFO  Pages.Add_Log - Total number of broken links: 26
+2025-07-01 21:23:55 INFO  Pages.Add_Log - http://www.deadlinkcity.com/error-page.asp?e=501 - 501 - Broken Link
+2025-07-01 21:23:55 INFO  Pages.Add_Log - Total number of broken links: 27
+2025-07-01 21:23:56 INFO  Pages.Add_Log - http://www.deadlinkcity.com/error-page.asp?e=502 - 502 - Broken Link
+2025-07-01 21:23:56 INFO  Pages.Add_Log - Total number of broken links: 28
+2025-07-01 21:23:57 INFO  Pages.Add_Log - http://www.deadlinkcity.com/error-page.asp?e=503 - 503 - Broken Link
+2025-07-01 21:23:57 INFO  Pages.Add_Log - Total number of broken links: 29
+2025-07-01 21:23:57 INFO  Pages.Add_Log - http://www.deadlinkcity.com/error-page.asp?e=504 - 504 - Broken Link
+2025-07-01 21:23:57 INFO  Pages.Add_Log - Total number of broken links: 30
+2025-07-01 21:23:58 INFO  Pages.Add_Log - http://www.deadlinkcity.com/error-page.asp?e=505 - 505 - Broken Link
+2025-07-01 21:23:58 INFO  Pages.Add_Log - Total number of broken links: 31
+2025-07-01 21:23:59 INFO  Pages.Add_Log - http://www.deadlinkcity.com/error-page.asp?e=506 - 506 - Broken Link
+2025-07-01 21:23:59 INFO  Pages.Add_Log - Total number of broken links: 32
+2025-07-01 21:23:59 INFO  Pages.Add_Log - http://www.deadlinkcity.com/error-page.asp?e=507 - 507 - Broken Link
+2025-07-01 21:23:59 INFO  Pages.Add_Log - Total number of broken links: 33
+2025-07-01 21:24:00 INFO  Pages.Add_Log - http://www.deadlinkcity.com/error-page.asp?e=509 - 509 - Broken Link
+2025-07-01 21:24:00 INFO  Pages.Add_Log - Total number of broken links: 34
+2025-07-01 21:24:00 INFO  Pages.Add_Log - http://www.deadlinkcity.com/error-page.asp?e=510 - 510 - Broken Link
+2025-07-01 21:24:00 INFO  Pages.Add_Log - Total number of broken links: 35
+2025-07-01 21:24:01 INFO  Pages.Add_Log - http://www.deadlinkcity.com/page-not-found.asp - 404 - Broken Link
+2025-07-01 21:24:01 INFO  Pages.Add_Log - Total number of broken links: 36
+2025-07-01 21:24:01 INFO  Pages.Add_Log - Exception caught: www.domaindoesnot.exist
+2025-07-01 21:24:01 INFO  Pages.Add_Log - Total number of broken links: 36
+2025-07-01 21:24:02 INFO  Pages.Add_Log - http://www.deadlinkcity.com/default.asp?r=1 - 200 - Valid Link
+2025-07-01 21:24:02 INFO  Pages.Add_Log - Total number of broken links: 36
+2025-07-01 21:24:04 INFO  Pages.Add_Log - http://www.deadlinkcity.com/default.asp?r=2 - 200 - Valid Link
+2025-07-01 21:24:04 INFO  Pages.Add_Log - Total number of broken links: 36
+2025-07-01 21:24:05 INFO  Pages.Add_Log - http://www.deadlinkcity.com/default.asp?r=4 - 404 - Broken Link
+2025-07-01 21:24:05 INFO  Pages.Add_Log - Total number of broken links: 37
+2025-07-01 21:24:09 INFO  Pages.Add_Log - http://www.deadlinkcity.com/default.asp?r=5 - 404 - Broken Link
+2025-07-01 21:24:09 INFO  Pages.Add_Log - Total number of broken links: 38
+2025-07-01 21:24:11 INFO  Pages.Add_Log - http://www.deadlinkcity.com/default.asp?r=6 - 404 - Broken Link
+2025-07-01 21:24:11 INFO  Pages.Add_Log - Total number of broken links: 39
+2025-07-01 21:24:13 INFO  Pages.Add_Log - http://www.deadlinkcity.com/default.asp?r=7 - 404 - Broken Link
+2025-07-01 21:24:13 INFO  Pages.Add_Log - Total number of broken links: 40
+2025-07-01 21:24:14 INFO  Pages.Add_Log - http://www.deadlinkcity.com/disallowed/disallowed.html - 404 - Broken Link
+2025-07-01 21:24:14 INFO  Pages.Add_Log - Total number of broken links: 41
+2025-07-01 21:24:14 INFO  Pages.Add_Log - http://www.deadlinkcity.com/disallowed/nonexistent.html - 404 - Broken Link
+2025-07-01 21:24:14 INFO  Pages.Add_Log - Total number of broken links: 42
+2025-07-01 21:24:14 INFO  Pages.Add_Log - Exception caught: class sun.net.www.protocol.mailto.MailToURLConnection cannot be cast to class java.net.HttpURLConnection (sun.net.www.protocol.mailto.MailToURLConnection and java.net.HttpURLConnection are in module java.base of loader 'bootstrap')
+2025-07-01 21:24:14 INFO  Pages.Add_Log - Total number of broken links: 42
