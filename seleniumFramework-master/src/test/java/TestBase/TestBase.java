@@ -111,7 +111,7 @@ public class TestBase {
 		extent.attachReporter(sparkReporter);
 
 		extent.setSystemInfo("Environment", "QA");
-		extent.setSystemInfo("User Name", "Prajwal G");
+		extent.setSystemInfo("User Name", "Shivani");
 	}
 
 	@AfterSuite
